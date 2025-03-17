@@ -6,6 +6,6 @@ This project focuses on analyzing New York City green taxi trip records (January
 
 ## Data
 
-Green Taxi – TLC Trip Record Data[link text](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+[Green Taxi – TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 **ETL, Star Schema, OLAP Queries can be seen in code part.**
